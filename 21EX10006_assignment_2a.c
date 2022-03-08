@@ -3,7 +3,7 @@
 //roll no. 21EX10006
 //package: codeblock
 //operating system: windows 11
-
+//editted
 #include<stdio.h>
 #include<math.h>
 int main()
